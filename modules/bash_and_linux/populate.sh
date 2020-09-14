@@ -5,6 +5,7 @@ cd data
 while [ $patient -le 5 ]
 do	
 	echo "populating patient ${patient}"
+	mkdir "patient${patient}" && cd "patient${patient}"
 	for letter in ${letters[@]}; do
 		num=0
 		while [ $num -le 10 ]
@@ -14,6 +15,7 @@ do
 			((num++))
 		done
 	done
+	cd ../
 	((patient++))
 done
 
