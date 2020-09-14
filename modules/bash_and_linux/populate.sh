@@ -10,7 +10,6 @@ do
 		num=0
 		while [ $num -le 10 ]
 		do
-			# touch "patient${patient}_${letter}_${num}.dat"
 			echo "this is the data for patient ${patient}'s ${letter}_${num}" > "patient${patient}_${num}_${letter}.dat"
 			((num++))
 		done
