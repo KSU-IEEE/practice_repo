@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/main.h
+
+/home/ntrinite/IEEE/practice_repo/modules/cpp/src/main.cpp
+main.h
+/home/ntrinite/IEEE/practice_repo/modules/cpp/src/main.h
+iostream
+-
+
