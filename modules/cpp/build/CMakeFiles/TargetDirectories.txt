@@ -1,0 +1,4 @@
+/home/yadayo/gitrepos/practice_repo/modules/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/yadayo/gitrepos/practice_repo/modules/cpp/build/CMakeFiles/edit_cache.dir
+/home/yadayo/gitrepos/practice_repo/modules/cpp/build/CMakeFiles/main.dir
+/home/yadayo/gitrepos/practice_repo/modules/cpp/build/CMakeFiles/no_header.dir
